@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there. I'm new to github, but right not I am just seeing what everything does! 👋
 
 <!--
 **carmmbage/carmmbage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
